@@ -1,6 +1,6 @@
 # caddy-tailscale-reverse
 
-## Tailscale
+## [Tailscale](https://tailscale.com/)
 
 [Enabling HTTPS](https://tailscale.com/kb/1153/enabling-https)
 
@@ -8,7 +8,7 @@
 sudo tailscale cert machine-name.domain-alias.ts.net
 ```
 
-## Caddy
+## [Caddy](https://caddyserver.com/)
 
 [Use Caddy to manage Tailscale HTTPS certificates](https://tailscale.com/blog/caddy)
 
