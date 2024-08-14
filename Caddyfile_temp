@@ -1,0 +1,3 @@
+machine-name.domain-alias.ts.net
+
+reverse_proxy :42069
