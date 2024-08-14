@@ -12,3 +12,4 @@
 
 # Caddy
 Caddyfile
+*.log
